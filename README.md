@@ -104,12 +104,3 @@ This project is licensed under the **MIT License**.
 Dataset usage should comply with the [original Kaggle dataset license](https://www.kaggle.com/datasets).
 
 ---
-
-# 📷 Sample Results
-
-*(Optional section: Add model accuracy graphs or some prediction samples once you have them!)*
-
----
-
-Would you also like me to create a small **LICENSE** file (MIT license) for you too? 🚀  
-It'll complete the GitHub repo nicely! 🌟
